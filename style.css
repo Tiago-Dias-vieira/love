@@ -2,18 +2,13 @@ body{
     background-color: rgb(15, 15, 13);
 }
 
-header{
-    height: 25%;
-    width: 15%;
-}
-
-#head{
-    margin: auto;
-}
-
 h1{
     text-align: center;
     color: rgb(255, 0, 0);
     text-shadow: 2px 1px 2px pink;
-    font-size: 85%;
+}
+
+#carrosel{
+    height: 20%;
+    width: 20%;
 }
